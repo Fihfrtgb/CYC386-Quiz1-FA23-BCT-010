@@ -1,0 +1,3 @@
+Always validate user input.
+Use strong passwords.
+Keep software updated.
